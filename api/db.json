@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "id": "cXrtw5n8-FsB",
+      "title": "映画"
+    },
+    {
+      "id": "w7DTqK1QQKTI",
+      "title": "マンガ"
+    }
+  ],
+  "items": [
+    {
+      "id": "7lR4Vd3EYixP",
+      "date": "2023/01/09",
+      "title": "アバター",
+      "text": "とてもよかった"
+    },
+    {
+      "id": "TsXP5w9qLeM-",
+      "date": "2023/01/11",
+      "title": "すずめの戸締まり",
+      "text": "とてもよかった"
+    },
+    {
+      "id": "rh022hj9zG58",
+      "date": "2023/01/15",
+      "title": "ワンピース104巻",
+      "text": "とてもよかった"
+    },
+    {
+      "id": "3NRSLMq49xvT",
+      "date": "2023/01/16",
+      "title": "東京リベンジャーズ31巻",
+      "text": "とてもよかった"
+    }
+  ],
+  "itemsOrder": {
+    "cXrtw5n8-FsB": "7lR4Vd3EYixP",
+    "7lR4Vd3EYixP": "TsXP5w9qLeM-",
+    "TsXP5w9qLeM-": "cXrtw5n8-FsB",
+    "w7DTqK1QQKTI": "rh022hj9zG58",
+    "rh022hj9zG58": "3NRSLMq49xvT",
+    "3NRSLMq49xvT": "w7DTqK1QQKTI"
+  },
+  "cardsOrder": {}
+}
